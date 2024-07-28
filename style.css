@@ -6,7 +6,8 @@
 }
 
 body {
-    font-family: 'inter', sans-serif, #303030;
+    font-family: 'inter', sans-serif;
+    color: #303030;
     font-weight: 400;
     font-size: 16px;
     line-height: 19.36px;
